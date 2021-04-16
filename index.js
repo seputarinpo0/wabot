@@ -1,4 +1,4 @@
-Copyright by tobi/ script by nurutomo
+//Copyright by tobi/ script by nurutomo
 console.log('Starting...')
 let { spawn } = require('child_process')
 let path = require('path')
