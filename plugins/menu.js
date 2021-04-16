@@ -55,7 +55,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       'host': 'Host',
       'advanced': 'Advanced',
       'info': 'Info',
-      '': 'No Category',
+      '': 'tobi gans',
     }
     for (let plugin of Object.values(global.plugins))
       if (plugin && 'tags' in plugin)
